@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    height: 100px;
+    margin: 0;
+}
+#nav{
+    background-color: #1A252F;
+}
+#nav ul{
+    list-style-type:none;
+    overflow: hidden;
+}
+#nav li{
+    float: left;
+    margin: .3rem;
+}
+#nav ul li{
+    font-size: 18px;
+}
+#nav li a{
+    color: white;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+    display:inline-block;
+}
+.card{
+    padding: 40px;
+    margin: 20px;
+    display: inline-block;
+}
