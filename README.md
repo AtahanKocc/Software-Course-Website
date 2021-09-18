@@ -13,7 +13,8 @@ I designed a sample website called "Koc Academy". I wrote this website using (HT
 ![mezunlarımız](https://user-images.githubusercontent.com/64138592/133896919-f06f25b1-075f-4692-b0c5-d201e2264f86.png)
 
 
-
+Dipnot: Mobil oyun geliştirme kısmı, sayfa boyutunu yakınlaştırılıp ekran görüntüsü alındığı için geniş gözükmektedir.
+Sayfa içeriklerinin boyutları birbirleri ile uyumludur.
 
 
 
